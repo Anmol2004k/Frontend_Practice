@@ -10,3 +10,10 @@ text align - left, right, justify
 ////
 Padding- andr side ka gap ,, yr bhr k trff,
 Margin-kisi 2 element k bich spaccing
+/// 
+display-
+1.inline
+2.block
+3.inline block
+
+
