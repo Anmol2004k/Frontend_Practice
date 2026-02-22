@@ -15,5 +15,7 @@ display-
 1.inline
 2.block
 3.inline block
-
+// Position
+Absolute - upr uthega 
+Relative-
 
