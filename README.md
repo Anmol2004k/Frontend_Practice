@@ -17,5 +17,14 @@ display-
 3.inline block
 // Position
 Absolute - upr uthega 
-Relative-
+Relative- parents ko dena hoga (to usko parents k respect m move hone k liye)
+//Background: url() 
+ Background-size = cover/contain 
+ Background-position = center/bottom/top 
+ Background-Repet = no repet
+ Background: liner gradient(to right,col1,col2)
+
+
+
+
 

@@ -8,9 +8,22 @@ html, body{
     width: 100%;
     background-color: #a32a2a;
 }
-
+#garrage {
+    width: 600px;
+    height: 500px;
+    background-color: #f5f3f3;
+    position: relative;
+}
  
-
+#car1 {
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+}
+ 
 
 
 
