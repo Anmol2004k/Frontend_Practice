@@ -24,7 +24,12 @@ Relative- parents ko dena hoga (to usko parents k respect m move hone k liye)
  Background-Repet = no repet
  Background: liner gradient(to right,col1,col2)
 
+//
+Flexbox 
+humesha parents ko lgega ,, are item line m aajyga 
 
+then 
 
-
-
+Align items-   height wise top s bottom wali AXIS
+  
+justify content-   Width  wali AXIS mainly X axis 
