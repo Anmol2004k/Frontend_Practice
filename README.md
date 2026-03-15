@@ -33,3 +33,19 @@ then
 Align items-   height wise top s bottom wali AXIS
   
 justify content-   Width  wali AXIS mainly X axis 
+Pseudo Elements
+::before
+::after
+::first-line
+::selection
+::first-letter
+
+// inke help s extyra element creat kr sakte hai Stylling m.
+
+Pseudo Classes
+::hover
+::active
+::focous
+::nth-child(n)
+
+ 
