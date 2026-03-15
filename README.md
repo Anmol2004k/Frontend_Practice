@@ -48,4 +48,14 @@ Pseudo Classes
 ::focous
 ::nth-child(n)
 
+
+// Grid (2D - dimansion control)
+pure grid block k liye 
+      Align-Content-
+      justyfy-Content-
+
+// serf us grig cell k liye 
+     align-items-
+     justyfy-items-
+
  

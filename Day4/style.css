@@ -8,3 +8,27 @@ html, body{
     width: 100%;
     background-color: #a32a2a;
 }
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+   
+
+}
+
+ .nav{
+/* background-color: red; */
+display: grid;
+grid-template-columns: 60% 10% 10% 10% 10%;
+grid-template-rows: 80px;
+align-items: center;
+justify-items: center;
+padding: 0 20px;
+}
+.nav h1{
+color: rgb(9, 188, 233);
+font-size: 60px;
+font-weight: bold;
+justify-self: start;
+margin: 0 30px;
+}
